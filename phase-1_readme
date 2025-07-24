@@ -1,0 +1,24 @@
+# Phase-2 Questions
+(Questions based Semiconductor devices like diodes, transistors (bjt/jfet/mosfet) and basic elements in Phase-1)
+
+------
+## 1. Find the output Voltage of the circuit given below:
+
+
+## Solution:
+
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 2. Find the value of the current (I) in the circuit given below:
+
+
+## Solution:
+
+------
+## 3. Find the expression of the output voltage wrt time for the circuit given below:
+
+Consider that the swtich is closed at time $t=0$.
