@@ -10,24 +10,24 @@ Questions are self made or are taken reference from somewhere, the following are
 ----------
 ## Phase-1
 Questions on basic circuits like and passive elements like Resistors, Capacitors and Inductors.
-- Phase-1 Questions [click here](/phase-1.md)
+- Phase-1 Questions [click here](/phase-1_readme.md)
 - 1st July'25 to 20th July'25
 
 ----------
 ## Phase-2
 Questions on basic circuits with semiconductor elements along with the elements in Phase-1.
-- Phase-2 Questions [click here](/phase-2.md)
+- Phase-2 Questions [click here](/phase-2_readme.md)
 - 21st July'25 to present...
 
 ----------
 ## Phase-3
 Questions with advanced circuits like oscillators and amplifiers.
-- Phase-3 Questions [click here](/phase-3.md) ...to be added
+- Phase-3 Questions [click here](/phase-3_readme.md) ...to be added
 
 ----------
 ## Phase-4
 Questions on advanced circuits with Integrated circuits.
-- Phase-4 Questions [click here](/phase-4.md) ...to be added
+- Phase-4 Questions [click here](/phase-4_readme.md) ...to be added
 
 ----------
 ## Phase-5
