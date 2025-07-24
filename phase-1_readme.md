@@ -33,14 +33,17 @@ Consider that the swtich is closed at time $t=0$.
 ![PHOTO-2025-07-06-21-42-25](https://github.com/user-attachments/assets/949d0c05-1a75-45af-bdeb-9775199c119a)
 
 ------
-## 6. (7th July 2025) Find the equivalent capacitance between point A and B.
+## 6. (7th July 2025) Find the equivalent capacitance between point A and B for the circuit given below:
 ![PHOTO-2025-07-07-21-51-00](https://github.com/user-attachments/assets/f5b049a4-6b48-4ec0-a944-e4252eb03e9e)
 
 ------
-## 7. (8th July 2025)
+## 7. (8th July 2025) Find the current drawn from the battery as a function of time for the circuit given below:
+![PHOTO-2025-07-09-00-37-26](https://github.com/user-attachments/assets/44695f03-d351-40f7-a078-63e542ec227f)
+Consider the switch to be ideal and closed at time $t=0$.
 
 ------
-## 8. (9th July 2025)
+## 8. (9th July 2025) Find the equivalent resistance between point A and B in the circuit given below:
+![PHOTO-2025-07-09-21-44-04](https://github.com/user-attachments/assets/ec6497ef-1689-4ae9-9b76-96d60d70827e)
 
 ------
 ## 9. (10th July 2025)
