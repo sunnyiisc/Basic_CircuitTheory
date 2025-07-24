@@ -9,6 +9,10 @@
 $V_{out} = \frac{2}{7} V_{in}$
 ![PHOTO-2025-07-03-21-06-48](https://github.com/user-attachments/assets/986a3c34-5f94-43bc-8dd2-0af248df02aa)
 
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
 ------
 ## 2. Find the value of the current (I) in the circuit given below:
 ![PHOTO-2025-07-03-21-12-14](https://github.com/user-attachments/assets/6bb2fa14-06f9-4f89-a9e2-0a0c1942bc6e)
