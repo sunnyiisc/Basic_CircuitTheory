@@ -47,10 +47,9 @@ Consider the cut-in voltage of both the diodes to be $0.7V$, the breakdown volta
 - Ouput Waveforms
 
 ------
-## 5. (26th July 2025) Find the value of MAX and MIN peak output voltage for the circuit given below:
+## 5. (26th July 2025) Find the Q-point value of Collector Current $(I_C)$ and Collector to Emittter Voltage $(V_{CE})$ for the circuit given below:
 ![PHOTO-2025-07-25-23-24-00](https://github.com/user-attachments/assets/ef4c6d7b-7934-43d9-a037-81b9929bd999)
-
-Consider a silicon Bipolar Junction Transistor (BJT)
+Consider a silicon Bipolar Junction Transistor (BJT) with $V_{BE} = 0.7V$ and $\beta = 100$
 
 ## Solution:
 
