@@ -25,7 +25,7 @@ Consider all diodes are ideal and the output load current is $14A$ for the full-
 - Ouput Waveforms
 
 ------
-## 3. (24th July 2025) Find the logical gate implementation for $V_{out}$ in terms of $V_{1}$ and $V_{2}$ for the circuit given below:
+## 3. (23rd July 2025) Find the logical gate implementation for $V_{out}$ in terms of $V_{1}$ and $V_{2}$ for the circuit given below:
 ![PHOTO-2025-07-23-23-17-42](https://github.com/user-attachments/assets/1cd628f3-5266-46f0-b498-7a9c7741714c)
 Consider $5V$ as logic-1 and $0V$ as logic-0.
 
@@ -36,7 +36,7 @@ Consider $5V$ as logic-1 and $0V$ as logic-0.
 - Ouput Waveforms
 
 ------
-## 4. (25th July 2025) Find the value of MAX and MIN peak output voltage for the circuit given below:
+## 4. (24th July 2025) Find the value of MAX and MIN peak output voltage for the circuit given below:
 ![PHOTO-2025-07-25-00-14-30](https://github.com/user-attachments/assets/88983ce3-c760-417d-ab1b-b8adef33a7e3)
 Consider the cut-in voltage of both the diodes to be $0.7V$, the breakdown voltage of zener diode $D_z$ is $3.3V$ and that of the normal diode D is $50V$.
 
@@ -47,9 +47,31 @@ Consider the cut-in voltage of both the diodes to be $0.7V$, the breakdown volta
 - Ouput Waveforms
 
 ------
-## 5. (26th July 2025) Find the Q-point value of Collector Current $(I_C)$ and Collector to Emittter Voltage $(V_{CE})$ for the circuit given below:
+## 5. (25th July 2025) Find the Q-point value of Collector Current $(I_C)$ and Collector to Emittter Voltage $(V_{CE})$ for the circuit given below:
 ![PHOTO-2025-07-25-23-24-00](https://github.com/user-attachments/assets/ef4c6d7b-7934-43d9-a037-81b9929bd999)
-Consider a silicon Bipolar Junction Transistor (BJT) with $V_{BE} = 0.7V$ and $\beta = 100$
+Consider a silicon Bipolar Junction Transistor (BJT) with $V_{BE} = 0.7V$ and $\beta = 100$.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 6. (26th July 2025) Consider the BJT to be in active region with $V_C=2V$ for the circuit given below:
+![PHOTO-2025-07-27-22-01-17](https://github.com/user-attachments/assets/b75a200e-944d-44ef-b9c3-4717e9cd7af2)
+To get $V_C=4V$ $R_C$ is to be replaced by $R_C'$. Find the ration $\frac{R_C'}{R_C}$.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 7. (27th July 2025) Find the max value of $R_C$ that can be used for the BJT to be in active region for the circuit given below:
+![PHOTO-2025-07-27-22-03-09](https://github.com/user-attachments/assets/bf1a8a43-e15d-453d-a244-8cca2c448d24)
+Consider the parameters of the BJT as $V_{BE}=0.7V$ and $V_{CE(sat)}=0.2V$.
 
 ## Solution:
 
