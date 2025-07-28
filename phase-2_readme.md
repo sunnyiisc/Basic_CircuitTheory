@@ -78,3 +78,14 @@ Consider the parameters of the BJT as $V_{BE}=0.7V$ and $V_{CE(sat)}=0.2V$.
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+
+------
+## 8. (28th July 2025) Find the voltage gain of the BJT amplifier circuit given below:
+![PHOTO-2025-07-28-23-53-24](https://github.com/user-attachments/assets/078d570a-ba37-401b-94d6-827127674079)
+Consider the parameters of the BJT as $V_{BE}=0.7V$ and DC current gain, $\beta=100$.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
