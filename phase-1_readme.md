@@ -107,19 +107,45 @@ Consider the swtich 'S' being closed at time $t=0$.
 - Ouput Waveforms
 
 ------
-## 11. (12th July 2025)
+## 11. (12th July 2025) Find $V_L(t)$ at $t=1\mu s$ for the circuit given below:
+![PHOTO-2025-07-14-21-16-17](https://github.com/user-attachments/assets/7f6a7743-9829-440f-95aa-00625059c04f)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 12. (13th July 2025)
+## 12. (13th July 2025) Find $V_{out}(t)$ at $t=200ns$ for the circuit given below:
+![PHOTO-2025-07-14-22-33-36](https://github.com/user-attachments/assets/d90144ab-ed36-49f0-87ac-81fcc42968e6)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 13. (14th July 2025)
+## 13. (14th July 2025) Find the expression of $i(t)$ for time $t \ge 0$ for the circuit given below:
+![PHOTO-2025-07-14-22-35-04](https://github.com/user-attachments/assets/9a33a026-804c-4cca-acd6-b30ceb87c630)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 14. (15th July 2025)
+## 14. (15th July 2025) Find the current through the switch as a function of time for the circuit given below:
+![PHOTO-2025-07-16-00-38-52](https://github.com/user-attachments/assets/087f761e-960c-4247-8b55-c6d3514a63cb)
+Consider cold start after several hours.
 
 ------
-## 15. (16th July 2025)
+## 15. (16th July 2025) Find the output waveform and then peak value of the output voltage for the circuit given below:
+![PHOTO-2025-07-17-00-29-58](https://github.com/user-attachments/assets/57616da8-008b-430c-bd76-8ca9e7871b51)
+Consider the input to be the following:
+$V_i(t) = V_p \cos \left(\frac{t}{RC}\right)$
 
 ------
 ## 16. (17th July 2025)
