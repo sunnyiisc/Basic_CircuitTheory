@@ -141,25 +141,74 @@ Consider the swtich 'S' being closed at time $t=0$.
 ![PHOTO-2025-07-16-00-38-52](https://github.com/user-attachments/assets/087f761e-960c-4247-8b55-c6d3514a63cb)
 Consider cold start after several hours.
 
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
 ------
 ## 15. (16th July 2025) Find the output waveform and then peak value of the output voltage for the circuit given below:
 ![PHOTO-2025-07-17-00-29-58](https://github.com/user-attachments/assets/57616da8-008b-430c-bd76-8ca9e7871b51)
 Consider the input to be the following:
 $V_i(t) = V_p \cos \left(\frac{t}{RC}\right)$
 
-------
-## 16. (17th July 2025)
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 17. (18th July 2025)
+## 16. (17th July 2025) Find the value of current $I(t=0+)$ i.e. the value just after the switch is closed for the circuit given below:
+![PHOTO-2025-07-18-12-23-39](https://github.com/user-attachments/assets/fc3d5611-196b-4d0c-a2a3-6ba687843229)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 18. (19th July 2025)
+## 17. (18th July 2025) Find the output voltage as a function of time for the circuit given below:
+![PHOTO-2025-07-18-23-36-46](https://github.com/user-attachments/assets/90c4c40e-9e33-4ac4-a8d8-2e0e0319feb1)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 19. (20th July 2025)
+## 18. (19th July 2025) Find the output voltage with respect to ground for the circuit given below:
+![PHOTO-2025-07-19-21-53-22](https://github.com/user-attachments/assets/fe4d05b5-4010-4133-a87d-dde575a3cd3a)
+Consider the input to be the following:
+$V_i(t) = 2\cos(200t) + 4\sin(500t)$
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 20. (20th July 2025)
+## 19. (19th July 2025) Find the peak value of the output voltage at very high frquency of the input for the circuit given below:
+![PHOTO-2025-07-19-22-12-18](https://github.com/user-attachments/assets/a6047d25-0234-4f55-8b9e-3fb83af0df41)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 20. (20th July 2025) Find the ratio of magnitudes of inductor current phasor to the resistor current phasor for hte circuit given below:
+![PHOTO-2025-07-20-21-17-20](https://github.com/user-attachments/assets/b6749f33-429b-4082-939b-7826eb7f2996)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 
