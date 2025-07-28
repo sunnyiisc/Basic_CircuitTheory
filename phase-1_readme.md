@@ -19,37 +19,92 @@ $V_{out} = \frac{2}{7} V_{in}$
 
 ## Solution:
 
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
 ------
 ## 3. (4th July 2025) Find the expression of the output voltage wrt time for the circuit given below:
 ![PHOTO-2025-07-05-00-55-34](https://github.com/user-attachments/assets/cbf0b162-ff6a-4c13-b4bc-867e8c0cace9)
 Consider that the swtich is closed at time $t=0$.
 
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
 ------
 ## 4. (5th July 2025) Find the current (I) in the circuit given below:
 ![PHOTO-2025-07-05-21-06-02](https://github.com/user-attachments/assets/72204bb4-8481-4f14-9711-f7a465c528e1)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
 ## 5. (6th July 2025) Find the current (I) in the circuit given below:
 ![PHOTO-2025-07-06-21-42-25](https://github.com/user-attachments/assets/949d0c05-1a75-45af-bdeb-9775199c119a)
 
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
 ------
 ## 6. (7th July 2025) Find the equivalent capacitance between point A and B for the circuit given below:
 ![PHOTO-2025-07-07-21-51-00](https://github.com/user-attachments/assets/f5b049a4-6b48-4ec0-a944-e4252eb03e9e)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
 ## 7. (8th July 2025) Find the current drawn from the battery as a function of time for the circuit given below:
 ![PHOTO-2025-07-09-00-37-26](https://github.com/user-attachments/assets/44695f03-d351-40f7-a078-63e542ec227f)
 Consider the switch to be ideal and closed at time $t=0$.
 
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
 ------
 ## 8. (9th July 2025) Find the equivalent resistance between point A and B in the circuit given below:
 ![PHOTO-2025-07-09-21-44-04](https://github.com/user-attachments/assets/ec6497ef-1689-4ae9-9b76-96d60d70827e)
 
-------
-## 9. (10th July 2025)
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
-## 10. (11th July 2025)
+## 9. (10th July 2025) Find the expression of $V_{out}$ for $t>0$ for the circuit given below:
+![PHOTO-2025-07-10-23-36-03](https://github.com/user-attachments/assets/474d1031-6900-4bc2-b03f-57d2cc3a9d40)
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 10. (11th July 2025) Find the current $I(t)$ through the switch as a function of time for the circuit given below:
+![PHOTO-2025-07-11-22-09-07](https://github.com/user-attachments/assets/a831322c-8e2d-43d0-b088-b06364560f14)
+Consider the swtich 'S' being closed at time $t=0$.
+
+## Solution:
+
+## Simulation: [click here](/phase-1/q1/)
+- Circuit Diagram
+- Ouput Waveforms
 
 ------
 ## 11. (12th July 2025)
