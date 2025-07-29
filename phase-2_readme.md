@@ -89,3 +89,14 @@ Consider the parameters of the BJT as $V_{BE}=0.7V$ and DC current gain, $\beta=
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+- 
+------
+## 9. (29th July 2025) Find the relation between the small-signal voltages $V_1$ and $V_2$ for the MOSFET amplifier circuit given below:
+![PHOTO-2025-07-29-23-54-39](https://github.com/user-attachments/assets/41bdd162-49a8-48a7-a3d8-d13c301fe03b)
+Consider the MOSFET to be in saturation region being an amplifier.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
