@@ -89,11 +89,24 @@ Consider the parameters of the BJT as $V_{BE}=0.7V$ and DC current gain, $\beta=
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
-- 
+
 ------
 ## 9. (29th July 2025) Find the relation between the small-signal voltages $V_1$ and $V_2$ for the MOSFET amplifier circuit given below:
 ![PHOTO-2025-07-29-23-54-39](https://github.com/user-attachments/assets/41bdd162-49a8-48a7-a3d8-d13c301fe03b)
 Consider the MOSFET to be in saturation region being an amplifier.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 10. (30th July 2025) Find the steady state output voltage $V_o$ for the CMOS circuit given below:
+![PHOTO-2025-07-30-23-22-46](https://github.com/user-attachments/assets/5cf2334e-d890-4a9f-ae8f-256c7d51a460)
+
+Consider the substrates of the MOSFETs are connected to the respective sources. The gate width (W) and gate length (L) ratio are shown in the circuit. Both the transistor have the same gate oxide capacitance per unit area.
+For PMOS the threshold voltage $V_{th-p} = -1V$ and the mobility of holes $\mu_p = 40cm^2 V^{-1} s^{-1}$ and for NMOS $V_{th-n} = 1V$ and $\mu_n = 300cm^2 V^{-1} s^{-1}$.
 
 ## Solution:
 
