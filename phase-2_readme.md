@@ -116,7 +116,7 @@ For PMOS the threshold voltage $V_{th-p} = -1V$ and the mobility of holes $\mu_p
 
 ## 11. (31st July 2025) Find the power dissipated at the transistor the Linear Voltage Regulator circuit given below:
 ![PHOTO-2025-07-31-22-16-15](https://github.com/user-attachments/assets/a3252cb1-fa92-447d-a3e4-5d6a9164f888)
-Consider the load of $10\Omega$ and input voltage of $10V$.
+Consider the load of $10\Omega$, input voltage of $10V$ and the breakdown voltage of the zener diode to be $6.6V$.
 
 ## Solution:
 
