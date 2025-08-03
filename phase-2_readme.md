@@ -123,3 +123,13 @@ Consider the load of $10\Omega$, input voltage of $10V$ and the breakdown voltag
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+
+## 12. (1st August 2025) Find the value of #R_2$ to get the output of #V_{OUT} = 9V$ for the Linear Voltage Regulator circuit given below:
+![PHOTO-2025-07-31-22-16-15](https://github.com/user-attachments/assets/339e27c9-2915-4fab-84e1-b3d481be44b4)
+Consider the Zener Diode breakdown voltage as #V_Z = 3.3V$, the base current of the BJTs are negligible and Base-Emitter voltage to be $V_{BE} = 0.7V$ and input voltage to be $V_{IN} = 15V$.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
