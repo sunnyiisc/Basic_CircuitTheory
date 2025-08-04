@@ -124,9 +124,21 @@ Consider the load of $10\Omega$, input voltage of $10V$ and the breakdown voltag
 - Circuit Diagram
 - Ouput Waveforms
 
-## 12. (1st August 2025) Find the value of #R_2$ to get the output of #V_{OUT} = 9V$ for the Linear Voltage Regulator circuit given below:
+## 12. (1st August 2025) Find the value of #R_2$ to get the output of $V_{OUT} = 9V$ for the Linear Voltage Regulator circuit given below:
 ![PHOTO-2025-08-02-08-39-49](https://github.com/user-attachments/assets/e8c2c628-22d7-4d49-80f4-ff87d70213b4)
-Consider the Zener Diode breakdown voltage as #V_Z = 3.3V$, the base current of the BJTs are negligible and Base-Emitter voltage to be $V_{BE} = 0.7V$ and input voltage to be $V_{IN} = 15V$.
+Consider the Zener Diode breakdown voltage as $V_Z = 3.3V$, the base current of the BJTs are negligible and Base-Emitter voltage to be $V_{BE} = 0.7V$ and input voltage to be $V_{IN} = 15V$.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
+
+## 13. (2nd August 2025) Find the voltage $V_3$ for the differential amplifier circuit given below:
+![PHOTO-2025-08-02-21-58-14](https://github.com/user-attachments/assets/4b0c0c9f-07c2-496b-97b0-84dd6354e82a)
+Consider the MOSFETs are ideal and biased in saturation region and have a transconductance $g_m = 5mS$. The input voltages (in volts) are as follows:
+$V_1 = 2.5 + 0.01 \sin\omegat$
+$V_2 = 2.5 - 0.01 \sin\omegat$
 
 ## Solution:
 
