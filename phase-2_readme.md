@@ -137,8 +137,8 @@ Consider the Zener Diode breakdown voltage as $V_Z = 3.3V$, the base current of 
 ## 13. (2nd August 2025) Find the voltage $V_3$ for the differential amplifier circuit given below:
 ![PHOTO-2025-08-02-21-58-14](https://github.com/user-attachments/assets/4b0c0c9f-07c2-496b-97b0-84dd6354e82a)
 Consider the MOSFETs are ideal and biased in saturation region and have a transconductance $g_m = 5mS$. The input voltages (in volts) are as follows:
-$V_1 = 2.5 + 0.01 \sin\omegat$
-$V_2 = 2.5 - 0.01 \sin\omegat$
+$V_1 = 2.5 + 0.01 \sin(\omega t)$
+$V_2 = 2.5 - 0.01 \sin(\omega t)$
 
 ## Solution:
 
