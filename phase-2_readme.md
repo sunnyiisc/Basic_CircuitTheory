@@ -148,7 +148,7 @@ $V_2 = 2.5 - 0.01 \sin(\omega t)$
 
 ## 14. (3rd August 2025) Find the value of the resistance $R_1$ and $R_2$ for a load current $I_L=12mA$ through $R_L$ in the circuit given below:
 ![PHOTO-2025-08-04-19-52-29](https://github.com/user-attachments/assets/91ae778a-cfeb-4299-a06a-6e224b2f6d70)
-Consider the transistors $Q_1$ and $Q_2$ are identical and biased in the active region with $\beta = 120$ and $V_{EB1} = V_{EB2) = 0.7V$. The zener diode is in the breakdown region with $V_Z = 5V$ and $I_Z = 25mA$.
+Consider the transistors $Q_1$ and $Q_2$ are identical and biased in the active region with $\beta = 120$ and $V_{EB1} = V_{EB2} = 0.7V$. The zener diode is in the breakdown region with $V_Z = 5V$ and $I_Z = 25mA$.
 
 ## Solution:
 
