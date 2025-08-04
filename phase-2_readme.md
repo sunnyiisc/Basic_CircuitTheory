@@ -155,3 +155,13 @@ Consider the transistors $Q_1$ and $Q_2$ are identical and biased in the active 
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+
+## 15. (4th August 2025) Find the output waveform from time $T_0$ to $T_3$ in the digital circuit given below:
+![PHOTO-2025-08-04-22-10-10](https://github.com/user-attachments/assets/6d815ecd-6fee-494d-aad5-464a3bd9b3c9)
+Consider the Flip-Flops to be positive edge-triggered and there is no timing violations in the circuit. Input $P_0$ is set to logic '0' and $P_1$ is set to logic '1' permanently. The timing diagram of 'CLK', 'SEL' and 'S' are shown in the figure.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
