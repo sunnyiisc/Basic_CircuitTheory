@@ -165,3 +165,23 @@ Consider the Flip-Flops to be positive edge-triggered and there is no timing vio
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+
+## 16. (5th August 2025) Find the output sequence $(Q_1 Q_0)$ in the digital sequential circuit given below:
+![PHOTO-2025-08-05-23-30-23](https://github.com/user-attachments/assets/e29f3a2a-f24d-40ce-9145-e5a7167870a9)
+
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
+
+## 17. (6th August 2025) Find the output waveform $Y$ for the digital circuit given below:
+![PHOTO-2025-08-06-22-15-49](https://github.com/user-attachments/assets/556a5a26-0bc3-4bf1-adb8-5e75f0c73808)
+Consider $S=1$ and the propagation delay of the $2 \times 1$ MUX is $10ns$ and the propagation delay of the inverter is $0$.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
