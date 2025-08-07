@@ -186,7 +186,7 @@ Consider $S=1$ and the propagation delay of the $2 \times 1$ MUX is $10ns$ and t
 - Circuit Diagram
 - Ouput Waveforms
 
-## 18. (7th August 2025) Find the magnitude of small signal gain $|\frac{V_{out}}{V_{in}}|$ circuit given below:
+## 18. (7th August 2025) Find the magnitude of small signal gain $\lvert \frac{V_{out}}{V_{in}} \rvert$ circuit given below:
 ![PHOTO-2025-08-07-20-09-21](https://github.com/user-attachments/assets/df326d97-237c-4625-912b-892ac88381ec)
 Consider both the transistors $M_1$ and $M_2$ are biased in saturation and their small signal transconductance are $g_{m1}$ and $g_{m2}$ respectively. Neglect the body effect, channel length modulation effect and intrinsic device capacitance. Assume $C_1$ is short for AC analysis.
 
