@@ -195,3 +195,13 @@ Consider both the transistors $M_1$ and $M_2$ are biased in saturation and their
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+
+## 19. (8th August 2025) Find output load voltage $V_L$ for the circuit given below:
+![PHOTO-2025-08-09-00-14-29](https://github.com/user-attachments/assets/6f20f929-001c-41fe-aa38-f00c794f142a)
+Consider the Width to Lendth Ratio of the transistor as given in the circuit diagram, also consider the MOSFETS to be ideal.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
