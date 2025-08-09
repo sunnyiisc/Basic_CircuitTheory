@@ -114,6 +114,7 @@ For PMOS the threshold voltage $V_{th-p} = -1V$ and the mobility of holes $\mu_p
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 11. (31st July 2025) Find the power dissipated at the transistor the Linear Voltage Regulator circuit given below:
 ![PHOTO-2025-07-31-22-16-15](https://github.com/user-attachments/assets/a3252cb1-fa92-447d-a3e4-5d6a9164f888)
 Consider the load of $10\Omega$, input voltage of $10V$ and the breakdown voltage of the zener diode to be $6.6V$.
@@ -124,6 +125,7 @@ Consider the load of $10\Omega$, input voltage of $10V$ and the breakdown voltag
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 12. (1st August 2025) Find the value of #R_2$ to get the output of $V_{OUT} = 9V$ for the Linear Voltage Regulator circuit given below:
 ![PHOTO-2025-08-02-08-39-49](https://github.com/user-attachments/assets/e8c2c628-22d7-4d49-80f4-ff87d70213b4)
 Consider the Zener Diode breakdown voltage as $V_Z = 3.3V$, the base current of the BJTs are negligible and Base-Emitter voltage to be $V_{BE} = 0.7V$ and input voltage to be $V_{IN} = 15V$.
@@ -134,6 +136,7 @@ Consider the Zener Diode breakdown voltage as $V_Z = 3.3V$, the base current of 
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 13. (2nd August 2025) Find the voltage $V_3$ for the differential amplifier circuit given below:
 ![PHOTO-2025-08-02-21-58-14](https://github.com/user-attachments/assets/4b0c0c9f-07c2-496b-97b0-84dd6354e82a)
 Consider the MOSFETs are ideal and biased in saturation region and have a transconductance $g_m = 5mS$. The input voltages (in volts) are as follows:
@@ -146,6 +149,7 @@ $V_2 = 2.5 - 0.01 \sin(\omega t)$
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 14. (3rd August 2025) Find the value of the resistance $R_1$ and $R_2$ for a load current $I_L=12mA$ through $R_L$ in the circuit given below:
 ![PHOTO-2025-08-04-19-52-29](https://github.com/user-attachments/assets/91ae778a-cfeb-4299-a06a-6e224b2f6d70)
 Consider the transistors $Q_1$ and $Q_2$ are identical and biased in the active region with $\beta = 120$ and $V_{EB1} = V_{EB2} = 0.7V$. The zener diode is in the breakdown region with $V_Z = 5V$ and $I_Z = 25mA$.
@@ -156,6 +160,7 @@ Consider the transistors $Q_1$ and $Q_2$ are identical and biased in the active 
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 15. (4th August 2025) Find the output waveform from time $T_0$ to $T_3$ in the digital circuit given below:
 ![PHOTO-2025-08-04-22-10-10](https://github.com/user-attachments/assets/6d815ecd-6fee-494d-aad5-464a3bd9b3c9)
 Consider the Flip-Flops to be positive edge-triggered and there is no timing violations in the circuit. Input $P_0$ is set to logic '0' and $P_1$ is set to logic '1' permanently. The timing diagram of 'CLK', 'SEL' and 'S' are shown in the figure.
@@ -166,9 +171,9 @@ Consider the Flip-Flops to be positive edge-triggered and there is no timing vio
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 16. (5th August 2025) Find the output sequence $(Q_1 Q_0)$ in the digital sequential circuit given below:
 ![PHOTO-2025-08-05-23-30-23](https://github.com/user-attachments/assets/e29f3a2a-f24d-40ce-9145-e5a7167870a9)
-
 
 ## Solution:
 
@@ -176,6 +181,7 @@ Consider the Flip-Flops to be positive edge-triggered and there is no timing vio
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 17. (6th August 2025) Find the output waveform $Y$ for the digital circuit given below:
 ![PHOTO-2025-08-06-22-15-49](https://github.com/user-attachments/assets/556a5a26-0bc3-4bf1-adb8-5e75f0c73808)
 Consider $S=1$ and the propagation delay of the $2 \times 1$ MUX is $10ns$ and the propagation delay of the inverter is $0$.
@@ -186,6 +192,7 @@ Consider $S=1$ and the propagation delay of the $2 \times 1$ MUX is $10ns$ and t
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 18. (7th August 2025) Find the magnitude of small signal gain $\lvert \frac{V_{out}}{V_{in}} \rvert$ circuit given below:
 ![PHOTO-2025-08-07-20-09-21](https://github.com/user-attachments/assets/df326d97-237c-4625-912b-892ac88381ec)
 Consider both the transistors $M_1$ and $M_2$ are biased in saturation and their small signal transconductance are $g_{m1}$ and $g_{m2}$ respectively. Neglect the body effect, channel length modulation effect and intrinsic device capacitance. Assume $C_1$ is short for AC analysis.
@@ -196,6 +203,7 @@ Consider both the transistors $M_1$ and $M_2$ are biased in saturation and their
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 19. (8th August 2025) Find output load voltage $V_L$ for the circuit given below:
 ![PHOTO-2025-08-09-00-14-29](https://github.com/user-attachments/assets/6f20f929-001c-41fe-aa38-f00c794f142a)
 Consider the Width to Lendth Ratio of the transistor as given in the circuit diagram, also consider the MOSFETS to be ideal.
@@ -206,6 +214,7 @@ Consider the Width to Lendth Ratio of the transistor as given in the circuit dia
 - Circuit Diagram
 - Ouput Waveforms
 
+------
 ## 20. (9th August 2025) Find the duration for which the thyristor willl conduct before turning OFF for the circuit given below:
 ![PHOTO-2025-08-09-21-16-26](https://github.com/user-attachments/assets/b37b1da6-111a-4b78-8e56-ffe833a92a2e)
 Consider the circuit had reached steady state with thyristor OFF and is turned ON at time $t=0$. Consider the latching current and holding current of the thryistor to be negligible.
