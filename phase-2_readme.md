@@ -205,3 +205,13 @@ Consider the Width to Lendth Ratio of the transistor as given in the circuit dia
 ## Simulation: [click here](/phase-2/q4/)
 - Circuit Diagram
 - Ouput Waveforms
+
+## 20. (9th August 2025) Find the duration for which the thyristor willl conduct before turning OFF for the circuit given below:
+![PHOTO-2025-08-09-21-16-26](https://github.com/user-attachments/assets/b37b1da6-111a-4b78-8e56-ffe833a92a2e)
+Consider the circuit had reached steady state with thyristor OFF and is turned ON at time $t=0$. Consider the latching current and holding current of the thryistor to be negligible.
+
+## Solution:
+
+## Simulation: [click here](/phase-2/q4/)
+- Circuit Diagram
+- Ouput Waveforms
