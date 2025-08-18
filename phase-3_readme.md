@@ -48,3 +48,15 @@ Consider the DAC is designed with ideal opamp with inputs $(b_3 b_2 b_1 b_0)$. T
 ## Simulation: [click here](/phase-3/q1/)
 - Circuit Diagram
 - Ouput Waveforms
+
+------
+## 5. (14th August 2025) Plot the voltages $V_{01}$ and $V_{02}$ as a function of time for the circuit given below:
+![PHOTO-2025-08-15-01-07-48](https://github.com/user-attachments/assets/8dab9136-3426-4eb7-90ff-dbdd0f30da90)
+Consider $V_{in}$ is a traiangular wave with peak voltages $\pm 2V$ and time period of $8\mu s$. Also consider the opamps are deal and inductor current is zero initially.
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
