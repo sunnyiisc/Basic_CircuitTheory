@@ -60,3 +60,15 @@ Consider $V_{in}$ is a traiangular wave with peak voltages $\pm 2V$ and time per
 ## Simulation: [click here](/phase-3/q1/)
 - Circuit Diagram
 - Ouput Waveforms
+
+------
+## 6. (15th August 2025) Find the value of $R_1$ and the corresponding frequency of oscillation for the circuit given below had sustained oscillations:
+![PHOTO-2025-08-15-21-38-54](https://github.com/user-attachments/assets/4b4ab05a-6fe8-4914-adc9-bbad6cebdab5)
+Consider the opamp to be ideal.
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
