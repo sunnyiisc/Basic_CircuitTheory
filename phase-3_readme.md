@@ -36,3 +36,15 @@ Consider the opamp to be ideal and then lower $-3dB$ cutoff freuency is $1MHz$.
 ## Simulation: [click here](/phase-3/q1/)
 - Circuit Diagram
 - Ouput Waveforms
+
+------
+## 4. (13th August 2025) Find the change in output voltage when the input is changed from $1110$ to $1101$ for the 4-bit weighted register DAC (Digital to Analog Converter) circuit given below:
+![PHOTO-2025-08-14-00-55-48](https://github.com/user-attachments/assets/943791c8-b844-47f1-a0a0-1a8f2eb8f38c)
+Consider the DAC is designed with ideal opamp with inputs $(b_3 b_2 b_1 b_0)$. The switches are closed when the corresponding bit is logical high.
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
