@@ -72,3 +72,183 @@ Consider the opamp to be ideal.
 ## Simulation: [click here](/phase-3/q1/)
 - Circuit Diagram
 - Ouput Waveforms
+
+------
+## 7. (16th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 8. (17th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 9. (18th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 10. (19th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 11. (20th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 12. (19th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 13. (20th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 14. (21st August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 15. (22nd August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 16. (23rd August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 17. (24th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 18. (25th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 19. (26th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 20. (27th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 21. (28th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 22. (29th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 23. (30th August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 24. (31st August 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
