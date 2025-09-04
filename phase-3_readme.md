@@ -74,7 +74,9 @@ Consider the opamp to be ideal.
 - Ouput Waveforms
 
 ------
-## 7. (16th August 2025) Find the va
+## 7. (16th August 2025) Find the voltage gain $\frac{V_{out}}{V_{in}}$ for the circuit shown below:
+![PHOTO-2025-08-17-02-50-56 2](https://github.com/user-attachments/assets/0ac5d04f-56be-4d01-95c4-20347af643e1)
+Consider the opamp to be ideal.
 
 ## Solution:
 
