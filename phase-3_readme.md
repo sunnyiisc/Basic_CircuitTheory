@@ -86,7 +86,9 @@ Consider the opamp to be ideal.
 - Ouput Waveforms
 
 ------
-## 8. (17th August 2025) Find the va
+## 8. (17th August 2025) Find turn ratio of the transformer to get the average load voltage of $\frac{2.5}{\pi}$.
+![PHOTO-2025-08-18-01-03-29](https://github.com/user-attachments/assets/188aeccd-89b9-45ca-b580-9b5045e5505b)
+Consider the transformer be an ideal step down center tap transformer. 
 
 ## Solution:
 
