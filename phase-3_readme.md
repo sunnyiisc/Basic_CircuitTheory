@@ -101,6 +101,7 @@ Consider the transformer be an ideal step down center tap transformer.
 ## 9. (18th August 2025) Find the voltage gain of the circuit given below:
 ![PHOTO-2025-08-18-23-36-45](https://github.com/user-attachments/assets/131ae390-09e7-4f21-819d-79e0f6c0683c)
 Consider the opamps to be ideal.
+
 ## Solution:
 
 
@@ -112,6 +113,7 @@ Consider the opamps to be ideal.
 ## 10. (19th August 2025) Find the voltage swing of the capacitor "C" in the circuit given below:
 ![PHOTO-2025-08-20-00-42-29](https://github.com/user-attachments/assets/b2a017c7-01c2-49ad-a34e-80aebbb2a054)
 Consider the diodes to be ideal with zero cut-in voltage and the opamps are ideal
+
 ## Solution:
 
 
@@ -123,15 +125,6 @@ Consider the diodes to be ideal with zero cut-in voltage and the opamps are idea
 ## 11. (20th August 2025) Find the output voltage of the circuit given below:
 ![PHOTO-2025-08-22-00-31-35](https://github.com/user-attachments/assets/98b4eb77-c06e-4e60-a936-9e59b3ee06c1)
 Consider the opamps to be ideal and $R=1k\Omega$.
-## Solution:
-
-
-## Simulation: [click here](/phase-3/q1/)
-- Circuit Diagram
-- Ouput Waveforms
-
-------
-## 12. (21st August 2025) Find the va
 
 ## Solution:
 
@@ -141,7 +134,9 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 13. (22nd August 2025) Find the va
+## 12. (21st August 2025) Find the current gain $\frac{I_{out}}{I_{in}}$ of the current amplifier circuit given below:
+![PHOTO-2025-08-22-00-32-43](https://github.com/user-attachments/assets/b358b0a9-36bf-4852-a7a3-88c260b7c48b)
+Consider the opamp to be ideal.
 
 ## Solution:
 
@@ -151,7 +146,9 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 14. (23rd August 2025) Find the va
+## 13. (22nd August 2025) Find the steady state output of the voltage of the circuit given below:
+![PHOTO-2025-08-23-10-44-07](https://github.com/user-attachments/assets/9026e79f-f02d-4f41-ab63-ca7798a51aab)
+Consider the opamp to be ideal.
 
 ## Solution:
 
@@ -161,7 +158,9 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 15. (24th August 2025) Find the va
+## 14. (23rd August 2025) Find the output voltage of the circuit given below:
+![PHOTO-2025-08-24-11-35-21](https://github.com/user-attachments/assets/f1caff1b-e21d-4904-a6c2-844591090298)
+Consider the opamp to be ideal.
 
 ## Solution:
 
@@ -171,7 +170,21 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 16. (25th August 2025) Find the va
+## 15. (24th August 2025) Find the voltage gain of the circuit shown below at the input frequency of 15kHz.
+![PHOTO-2025-08-25-00-32-32](https://github.com/user-attachments/assets/5dae649b-fb14-43bc-84f7-ae7c84146607)
+Consider the opamp the be real (non-deal) having opean loop voltage gain $A_0 = 10^5 V/V$ and open loop cutoff frequency $f_c = 8Hz$.
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
+## 16. (25th August 2025) Find the output voltage for an input of 25mV in the circuit given below:
+![PHOTO-2025-09-01-00-08-01](https://github.com/user-attachments/assets/256b6ad7-1a7b-43ab-8d4c-f7093034879b)
+Consider the opamp has a finite open loop voltage gain of 100. Its input offset voltage is $+5mV$ modelled in the circuit as an input source. Otherwise the amplifier can be considered to be ideal.
 
 ## Solution:
 
