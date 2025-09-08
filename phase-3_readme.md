@@ -98,8 +98,9 @@ Consider the transformer be an ideal step down center tap transformer.
 - Ouput Waveforms
 
 ------
-## 9. (18th August 2025) Find the va
-
+## 9. (18th August 2025) Find the voltage gain of the circuit given below:
+![PHOTO-2025-08-18-23-36-45](https://github.com/user-attachments/assets/131ae390-09e7-4f21-819d-79e0f6c0683c)
+Consider the opamps to be ideal.
 ## Solution:
 
 
@@ -108,8 +109,9 @@ Consider the transformer be an ideal step down center tap transformer.
 - Ouput Waveforms
 
 ------
-## 10. (19th August 2025) Find the va
-
+## 10. (19th August 2025) Find the voltage swing of the capacitor "C" in the circuit given below:
+![PHOTO-2025-08-20-00-42-29](https://github.com/user-attachments/assets/b2a017c7-01c2-49ad-a34e-80aebbb2a054)
+Consider the diodes to be ideal with zero cut-in voltage and the opamps are ideal
 ## Solution:
 
 
@@ -118,8 +120,9 @@ Consider the transformer be an ideal step down center tap transformer.
 - Ouput Waveforms
 
 ------
-## 11. (20th August 2025) Find the va
-
+## 11. (20th August 2025) Find the output voltage of the circuit given below:
+![PHOTO-2025-08-22-00-31-35](https://github.com/user-attachments/assets/98b4eb77-c06e-4e60-a936-9e59b3ee06c1)
+Consider the opamps to be ideal and $R=1k\Omega$.
 ## Solution:
 
 
