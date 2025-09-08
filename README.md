@@ -20,17 +20,17 @@ Questions on basic circuits with semiconductor elements along with the elements 
 - 21st July'25 to 9th August'25
 
 ----------
-## Phase-3: 20 Questions
+## Phase-3: 25 Questions
 Questions with advanced circuits like oscillators and amplifiers.
 - Phase-3 Questions [click here](/phase-3_readme.md)
 - 10th August'25 to present...
 
 ----------
-## Phase-4: 20 Questions
+## Phase-4: 25 Questions
 Questions on advanced circuits with Integrated circuits.
 - Phase-4 Questions [click here](/phase-4_readme.md) ...to be added
 
 ----------
-## Phase-5: 20 Questions
+## Phase-5: 10 Questions
 Questions on the circuits used in actual practical applications.
 - Phase-5 Questions [click here](/phase-5.md) ...to be added
