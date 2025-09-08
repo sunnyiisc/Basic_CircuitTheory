@@ -131,7 +131,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 12. (19th August 2025) Find the va
+## 12. (21st August 2025) Find the va
 
 ## Solution:
 
@@ -141,7 +141,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 13. (20th August 2025) Find the va
+## 13. (22nd August 2025) Find the va
 
 ## Solution:
 
@@ -151,7 +151,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 14. (21st August 2025) Find the va
+## 14. (23rd August 2025) Find the va
 
 ## Solution:
 
@@ -161,7 +161,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 15. (22nd August 2025) Find the va
+## 15. (24th August 2025) Find the va
 
 ## Solution:
 
@@ -171,7 +171,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 16. (23rd August 2025) Find the va
+## 16. (25th August 2025) Find the va
 
 ## Solution:
 
@@ -181,7 +181,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 17. (24th August 2025) Find the va
+## 17. (26th August 2025) Find the va
 
 ## Solution:
 
@@ -191,7 +191,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 18. (25th August 2025) Find the va
+## 18. (27th August 2025) Find the va
 
 ## Solution:
 
@@ -201,7 +201,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 19. (26th August 2025) Find the va
+## 19. (28th August 2025) Find the va
 
 ## Solution:
 
@@ -211,7 +211,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 20. (27th August 2025) Find the va
+## 20. (29th August 2025) Find the va
 
 ## Solution:
 
@@ -221,7 +221,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 21. (28th August 2025) Find the va
+## 21. (30th August 2025) Find the va
 
 ## Solution:
 
@@ -231,7 +231,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 22. (29th August 2025) Find the va
+## 22. (31st August 2025) Find the va
 
 ## Solution:
 
@@ -241,7 +241,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 23. (30th August 2025) Find the va
+## 23. (1st September 2025) Find the va
 
 ## Solution:
 
@@ -251,7 +251,7 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 - Ouput Waveforms
 
 ------
-## 24. (31st August 2025) Find the va
+## 24. (2nd September 2025) Find the va
 
 ## Solution:
 
@@ -259,3 +259,14 @@ Consider the opamps to be ideal and $R=1k\Omega$.
 ## Simulation: [click here](/phase-3/q1/)
 - Circuit Diagram
 - Ouput Waveforms
+
+## 25. (3rd September 2025) Find the va
+
+## Solution:
+
+
+## Simulation: [click here](/phase-3/q1/)
+- Circuit Diagram
+- Ouput Waveforms
+
+------
