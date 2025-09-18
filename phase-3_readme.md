@@ -217,7 +217,15 @@ Consider all the components to be ideal, $R=2k\Omega$ and $C=1\mu F$.
 - Ouput Waveforms
 
 ------
-## 19. (28th August 2025) Find the va
+## 19. (28th August 2025) Find the low frequency gain $\frac{V_o}{V_i}$ of the amplifier circuit shown below:
+![PHOTO-2025-09-09-02-07-08](https://github.com/user-attachments/assets/56dbd5d2-1878-4282-8c62-33db0522c99c)
+Consider the capacitors are short circuited at the operating frequency and then input $V_i$ is directly coupled. Consider the BJT parameters as follows where $k$ is Boltzman constant and the temperature is considered to be room temperature:
+
+$V_{BE}=0.7V$
+
+$\frac{kT}{q}=26mV$
+
+Output resistance of the BJT is very high and the base current to be considered as negligible.
 
 ## Solution:
 
@@ -227,7 +235,9 @@ Consider all the components to be ideal, $R=2k\Omega$ and $C=1\mu F$.
 - Ouput Waveforms
 
 ------
-## 20. (29th August 2025) Find the va
+## 20. (29th August 2025) Find the reading of the voltmeter in the circuit given below:
+![PHOTO-2025-09-09-23-34-09](https://github.com/user-attachments/assets/5198fae2-082f-4f0d-81ae-48b81ad8d63c)
+Consider it is a PMMC (Permanent Magnet Moving Coil) type voltmeter having a bandwidth of $1Hz$. Consider the Opamp and Diodes to be ideal.
 
 ## Solution:
 
