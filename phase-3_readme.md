@@ -205,7 +205,9 @@ Consider the opamp to be ideal.
 - Ouput Waveforms
 
 ------
-## 18. (27th August 2025) Find the va
+## 18. (27th August 2025) Find the operation of the circuit and the $-3dB$ cutoff frequency of the circuit.
+![PHOTO-2025-09-09-02-02-45](https://github.com/user-attachments/assets/4747080a-3972-48eb-8158-5d8a47a0c703)
+Consider all the components to be ideal, $R=2k\Omega$ and $C=1\mu F$.
 
 ## Solution:
 
