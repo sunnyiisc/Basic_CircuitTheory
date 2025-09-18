@@ -194,8 +194,9 @@ Consider the opamp has a finite open loop voltage gain of 100. Its input offset 
 - Ouput Waveforms
 
 ------
-## 17. (26th August 2025) Find the va
-
+## 17. (26th August 2025) Find the value of $\frac{V_x}{I_x}$.
+![PHOTO-2025-09-09-01-59-58](https://github.com/user-attachments/assets/c9578311-cb3f-445a-8a62-a02d391a1ef2)
+Consider the opamp to be ideal.
 ## Solution:
 
 
